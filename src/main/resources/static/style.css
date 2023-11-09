@@ -1,0 +1,18 @@
+.font{
+    font-family: 'SKA_75_marul_CE_extended', sans-serif;
+    font-family: 'SKA_75_marul_CE', sans-serif;
+    color: #fff;
+}
+.button{
+    font-family: 'SKA_75_marul_CE_extended', sans-serif;
+    font-family: 'SKA_75_marul_CE', sans-serif;
+    color: black;
+}
+.fundo{
+    height: 100%;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+}
